@@ -1,0 +1,15 @@
+1. Investigar patrones de diseño:
+    a) Adapter
+    b) Brige
+    c) Iterator
+
+2. Investigar sobre Estructuras de Datos Lineales
+    a) Pilas (stacks)
+    b) Colas (Queues)
+    c) Listas (Lists)
+   Diferencias entre las 3, y determinar para que se usa c/u
+
+3. Que es un tipo de dato "E" en Java? (Generics)
+
+4. Que es el Garbage Collector (GC) en IntelliJ?
+   Como funciona? Es importante?
