@@ -1,0 +1,20 @@
+"Hola, soy Joe y quiero una app para mi empresa de contrata de trabajadores.
+Yo contrato gente y les brindo la mano de oba a las empresas y ellos no tienen
+que preocuparse de liquidaciones, contratos, seguros medicos, etc.
+
+Quiero un sistema que tenga una seguridad minima de que SOLO YO en mi computadora puedo
+abrirlo (solo una instancia). Necesito ingresar con mi correo y con mi contraseña.
+
+Quiero registrar trabajadores, horas de trabajo de c/u, quiero que automaticamente al
+registrar uno nuevo me mande un contrato para colocar los datos, eso se debe poder enviar
+por PDF. Quiero poder agregar diferentes TIPOS de trabajadores (FACTORY) y que mi programa
+no se dañe. Los trabajadores algunos tienen diferentes tipos de atributos (BUILDER) y
+quiero poder registrarlos igualmente. En ese sentido quiero poder ver además en tiempo real
+los cambios en mi ventanaPrincipal de las horas trabajadas de cada trabajador (debo poder
+asignar trabajos a cada persona. Hay diferentes tipos de trbajadores, eso tambien quiero
+que registre. Quiero tener una lista de posibles trbajadores, y cuando despida a alguien
+(o lo saque del sistema) quiero enviarles un mensaje de "Bacante disponible para ... " y
+agregar la informacion del puesto vacante.
+
+Debo poder registrar empresas y el tipo de trabajo que requieren.
+Se puede registrar diferentes tipos de empresas (FACTORY)"
